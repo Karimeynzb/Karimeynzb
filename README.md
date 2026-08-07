@@ -87,6 +87,11 @@ Soy-Karimeyb@github
   </a>
 </p>
 
+<!-- Tabla de actividad -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karimeynzb&theme=dracula" alt="Activity Graph" />
+</p>
+
   <!-- Texto interactivo -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9CDFF7&width=435&lines=Conecta+conmigo+%F0%90%80%AA%F0%90%80%AA" alt="Typing SVG" /></a>
 </p>
