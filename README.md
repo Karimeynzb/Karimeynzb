@@ -1,3 +1,4 @@
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <h1 align="center">
  ⊹♡ 𝙷𝚒 s𝚘𝚢 𝙺𝚊𝚛𝚒 🌸.𐙚♡ 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
@@ -79,11 +80,27 @@ Soy-Karimeyb@github
 </table>
 
 <br>
-
- <p align="">
-<a href="https://github.com/Karimeynzb">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xeno2410&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xeno2410&layout=compact&langs_count=8&theme=dracula"/>
-</a>
+<!-- Grafica de estadisticas -->
+<p align="center">
+  <a href="https://github.com/Karimeynzb">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Karimeynzb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Karimeynzb&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
 </p>
 
+  <!-- Texto interactivo -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9CDFF7&width=435&lines=Conecta+conmigo+%F0%90%80%AA%F0%90%80%AA" alt="Typing SVG" /></a>
+</p>
+</p>
+
+<!-- iconos redes sociales -->
+<p align="center">
+	<a href="karimey267@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Karimeynzb"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/karime-yanez-86436a409?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/karii_ybz?igsh=M2k1cDI1OXJnY3Uy"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	
+	
+</p>
+
+<hr/>
