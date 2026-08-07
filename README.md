@@ -51,7 +51,6 @@ Soy-Karimeyb@github
       <br>Python
     </td>
   </tr>
-  </tr>
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySql" />
