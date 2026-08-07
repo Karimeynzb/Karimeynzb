@@ -32,11 +32,9 @@ Soy-Karimeyb@github
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+> Tools and Technologies
 
-<!-- Tabla -->
-
-> Tools and Technologies>
-><table>
+<table>
   <tr>
     <td align="center" width="96">
         <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="48" height="48" alt="HTML" />
