@@ -73,9 +73,18 @@ Soy-Karimeyb@github
 </p>
 
 <!-- Tabla de actividad -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karimeynzb&theme=dracula" alt="Activity Graph" />
-</p>
+
+<div align="center">
+  <!-- Tarjeta de Estadísticas Generales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Karimeynzb&show_icons=true&theme=tokyonight&locale=es&custom_title=Estad%C3%ADsticas%20de%20Reyna" height="200"/>
+
+  <!-- Tarjeta de Racha (Streak) - Corregido dominio y parámetro 'user' -->
+  <img src="https://streak-stats.demolab.com/?user=Karimeynzb&theme=material-palenight" height="200"/>
+
+  <!-- Tarjeta de Lenguajes Principales -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karimeynzb&layout=compact&theme=tokyonight&hide_border=false" height="200"/>
+</div>
+
 
   <!-- Texto interactivo -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9CDFF7&width=435&lines=Conecta+conmigo+%F0%90%80%AA%F0%90%80%AA" alt="Typing SVG" /></a>
