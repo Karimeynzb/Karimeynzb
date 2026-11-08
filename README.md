@@ -72,6 +72,8 @@ Soy-Karimeyb@github
   </table>
 </p>
 
+
+
 <!-- Tabla de actividad -->
 
 <div align="center">
@@ -84,6 +86,9 @@ Soy-Karimeyb@github
   <!-- Tarjeta de Lenguajes Principales -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karimeynzb&layout=compact&theme=tokyonight&hide_border=false" height="200"/>
 </div>
+
+
+
 
 
   <!-- Texto interactivo -->
